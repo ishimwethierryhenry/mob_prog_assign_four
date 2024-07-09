@@ -1,16 +1,14 @@
-# mob_prog_assign_four
+Assignment #4. Working with APIs & Content Providers
+====================================
 
-A new Flutter project.
+1. Add local mobile phone Contact list to your API (eg. see WhatApp)
+2. Under the Drawer, Edit Profile picture where you have two options:
+  a. Select from the Gallery
+  b. Take a Picture
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Make your App Multilingual.      
+- At least 2 different languages should be supported.
+- Translate the whole App
+-
+- ![41](https://github.com/ishimwethierryhenry/mob_prog_assign_four/assets/149163309/f0f10791-98a2-42f8-9598-520bffd58d97)
+![4](https://github.com/ishimwethierryhenry/mob_prog_assign_four/assets/149163309/c3bca9e1-cc89-43b5-adf7-ffa7e91b1604)
