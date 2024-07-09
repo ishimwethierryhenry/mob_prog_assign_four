@@ -14,14 +14,10 @@ class ContactService {
       headers: {
         'Content-Type': 'application/json',
       },
-      body: jsonEncode(contacts
-          .map((contact) => {
-                'name': contact.displayName,
-                'phone': contact.phones?.isNotEmpty == true
-                    ? contact.phones!.first.value
-                    : '',
-              })
-          .toList()),
+      body: jsonEncode(contacts.map((contact) => {
+        'name': contact.displayName,
+        'phone': contact.phones?.isNotEmpty == true ? contact.phones!.first.value : '',
+      }).toList()),
     );
 
     if (response.statusCode == 200) {
@@ -31,3 +27,4 @@ class ContactService {
     }
   }
 }
+
