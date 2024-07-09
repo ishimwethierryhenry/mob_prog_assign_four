@@ -28,5 +28,7 @@
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+        <key>NSContactsUsageDescription</key>
+        <string>App needs access to contacts so as to be able function smoothly</string>
 </dict>
 </plist>
