@@ -16,3 +16,4 @@ Assignment #4. Working with APIs & Content Providers
 ![Screenshot_20240729-141436](https://github.com/user-attachments/assets/344f2519-934c-4d2b-b767-1f563df66476)
 ![Screenshot_20240729-141429](https://github.com/user-attachments/assets/b4711320-9e64-4e37-bbfc-08cdea74371e)
 ![Screenshot_20240729-141420](https://github.com/user-attachments/assets/514b1265-91b2-4b43-a787-245bc358e17a)
+![Screenshot_20240729-142546](https://github.com/user-attachments/assets/18676342-7d43-4750-9e0d-ca51dc4281ed)
